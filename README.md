@@ -1,2 +1,2 @@
-# Daily-Does-of-Brain
+# Daily-Dose-of-Brain
 Brain games
